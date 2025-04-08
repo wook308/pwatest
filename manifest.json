@@ -1,0 +1,13 @@
+{
+  "start_url": "https://wook308.github.io/pwatest",
+  "dir": "auto",
+  "scope": "/",
+  "lang": "ko",
+  "orientation": "portrait",
+  "display": "standalone",
+  "name": "1만 시간의 법칙",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "short_name": "시간의 법칙",
+  "description": "시간"
+}
